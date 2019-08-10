@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "362192508192",
+    "firebase_url": "https://almacengram-31847.firebaseio.com",
+    "project_id": "almacengram-31847",
+    "storage_bucket": "almacengram-31847.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362192508192:android:9cbb69d29d9fd392",
+        "android_client_info": {
+          "package_name": "com.ricardo.almacengram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362192508192-vvs481fncl23s6sdtfcdd7478uidt9hr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricardo.almacengram",
+            "certificate_hash": "71bd536c6004173fe7464a8b037c1bf0f4033881"
+          }
+        },
+        {
+          "client_id": "362192508192-0t50jdqf6q17dhafc2dlk0vpaedo6plm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPKBf6R1jkMtfE1PnuU5DN0Be7Ailh24I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362192508192-0t50jdqf6q17dhafc2dlk0vpaedo6plm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

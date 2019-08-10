@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<path     xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <external-path name="AlmacenGram" path="Android/data/com.ricardo.almacengram/files/Pictures">
+
+    </external-path>
+
+</path>
+
+

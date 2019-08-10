@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name" translatable="false">AlmacenGram</string>
+        <string name="title_activity_referencia" translatable="false">ReferenciaActivity</string>
+        <string name="hint_username">Nombre de usuario</string>
+        <string name="hint_password">Contraseña</string>
+        <string name="text_button_login">Login</string>
+        <string name="dont_have_account">¿No tienes cuenta?,</string>
+        <string name="create_here">crea una aqui</string>
+        <string name="hint_email">Correo</string>
+        <string name="hint_name">Nombre</string>
+        <string name="hint_user">Usuario</string>
+        <string name="hint_confirm_password">Confirmar contraseña</string>
+        <string name="text_button_createaccount">Unete</string>
+        <string name="toolbar_tittle_createaccount">Crear cuenta</string>
+        <string name="username_card">De Angelis Ricardo</string>
+        <string name="firstword_card">Hace</string>
+        <string name="timecard_card">4 dias</string>
+        <string name="likenumbercard_card">10 me gusta</string>
+        <string name="tab_search">Buscar</string>
+        <string name="tab_home">Home</string>
+        <string name="tab_profile">Yo</string>
+        <string name="login_error">Error de conexion</string>
+        <string name="fb_login_protocol_scheme">fb2339754812910393</string>
+        <string name="facebook_app_id">2339754812910393</string>
+
+
+        <!-- TODO: Remove or change this placeholder text -->
+        <string name="hello_blank_fragment">Hello blank fragment</string>
+        <string name="secondword_detail">Me Gusta</string>
+        <string name="titleimagedetail">\"Todo en mercaderia\"</string>
+        <string name="loren">Acá veras adasd asjka sldkjasl kdjasl kjdlas kjdlaskj dlaskjd</string>
+        <string name="transitionname_picture">transitionnamepicture</string>
+        <string name="searchhinttext">Buscar</string>
+        <string name="hint_title">Titulo</string>
+        <string name="hint_description">Descripción</string>
+        <string name="text_button_createpost">Crear post</string>
+    <string name="menu_signout">Cerrar Sesion</string>
+    <string name="menu_about">Acerca de</string>
+
+</resources>
